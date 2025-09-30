@@ -25,8 +25,6 @@ public class exercicio_4 {
             duracaoJogo = 24 - horaInicial + horaFinal;
             System.out.println("Duracao fora do time");
         }
-
         System.out.println("O jogo teve duracao de " + duracaoJogo + " hora(s)");
-
     }
 }

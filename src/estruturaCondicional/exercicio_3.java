@@ -22,6 +22,5 @@ public class exercicio_3 {
         } else {
             System.out.println("Nao sao multiplos...");
         }
-
     }
 }
